@@ -24,7 +24,7 @@ sudokuSolver                  (project root folder)
 * C++
 * C++ Compiler
 
-## Author
+## Authors
 ---
 *  Mason Schenk: sch19013@byui.edu
 *  Chris Slack:  sla19004@byui.edu
