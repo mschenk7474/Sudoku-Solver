@@ -27,3 +27,5 @@ sudokuSolver                  (project root folder)
 ## Author
 ---
 *  Mason Schenk: sch19013@byui.edu
+*  Chris Slack:  sla19004@byui.edu
+*  Alec Day:     day19011@byui.edu
